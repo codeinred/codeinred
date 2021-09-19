@@ -20,5 +20,6 @@ free to submit a pull request with your work!
 
 ### Stats and Numbers
 
-[![Alecto's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeinred&include_all_commits=true&show_icons=true&hide_border=true&theme=radical&custom_title=Stats%20for%20Alecto&border_radius=0.5em)](https://github.com/codeinred)
+[![Alecto's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeinred&include_all_commits=true&show_icons=true&hide_border=true&theme=radical&custom_title=Stats%20for%20Alecto&border_radius=0.5em&line_height=28)](https://github.com/codeinred)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeinred&langs_count=10&layout=compact&hide_border=true&theme=radical&border_radius=0.5em)](https://github.com/codeinred)
