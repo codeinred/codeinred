@@ -20,4 +20,4 @@ free to submit a pull request with your work!
 
 ### Stats and Numbers
 
-[![Alecto's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeinred)](https://github.com/codeinred)
+[![Alecto's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeinred&count_private=true&show_icons=true&theme=radical)](https://github.com/codeinred)
