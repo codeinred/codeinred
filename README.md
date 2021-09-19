@@ -1,4 +1,4 @@
-### Hi! My name is Alecto! Welcome to my github!
+## Hi! My name is Alecto! Welcome to my github!
 
 I’m currently working on a number of projects. These range from projects in C++
 with ambitious scopes, to more down-to-earth projects. I'm currently a student,
@@ -11,6 +11,8 @@ are:
 
 Both of these are at the stage where I feel that other people can start using
 and experimenting with them, and I'd love for you to take a look at them!
+
+### Reaching Out
 
 I'm availible on [twitter](https://twitter.com/codeinred) and via email if you'd like to get
 in touch, or if there's any improvements you see to any of my projects, feel
