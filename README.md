@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! My name is Alecto! Welcome to my github!
 
 <!--
 **codeinred/codeinred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
