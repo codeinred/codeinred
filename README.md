@@ -17,3 +17,7 @@ and experimenting with them, and I'd love for you to take a look at them!
 I'm availible on [twitter](https://twitter.com/codeinred) and via email if you'd like to get
 in touch, or if there's any improvements you see to any of my projects, feel
 free to submit a pull request with your work!
+
+### Stats and Numbers
+
+[![Alecto's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeinred)](https://github.com/codeinred)
